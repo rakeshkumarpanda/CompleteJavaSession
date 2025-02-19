@@ -29,3 +29,13 @@ public class Constructor11 {
 
     }
 }
+
+/*
+Note:
+In Cons11 class we have 2 constructors and they are similar and different in below ways
+1. Same method name
+2. Same core functionality as all the constructors are used for the initialization purposes
+3. Different argument lists i.e. different number/data typed arguments
+So this concept is called as constructor overloading
+As the constructors are also the methods so this can also be called as method overloading
+ */
